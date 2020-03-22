@@ -1,3 +1,3 @@
-g_key = 'YOUR API'
+g_key = 'key here'
 
-weather_api_key ='YOUR API'
+weather_api_key ='key here'
